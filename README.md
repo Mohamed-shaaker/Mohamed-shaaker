@@ -1,8 +1,8 @@
 # Mohamed Shaaker
 
-Technical founder. I write software and build with AI.
+I'm a technical founder who writes software and builds with AI.
 
-I build full-stack systems and production infrastructure — whatever the problem needs.
+I build full-stack systems and production infrastructure: whatever the problem needs.
 Right now that means ML inference pipelines, fintech backends, and automation tools for real businesses.
 
 ---
@@ -32,13 +32,13 @@ Right now that means ML inference pipelines, fintech backends, and automation to
 
 ## Technical log
 
-I publish transmissions at [mshaaker.com](https://mshaaker.com) — production debugging, architecture decisions, and work in progress. No fluff.
+I publish transmissions at [mshaaker.com](https://mshaaker.com) about production debugging, architecture decisions, and work in progress, without the fluff.
 
 Recent transmissions:
 
-- [The 404 was a ghost. The image was stale.](https://mshaaker.com/transmissions/010-prometheus-scrapes-clean) — Prometheus scraping a stale container image
-- [ResNet-50 takes 60 seconds to load. The cluster didn't know that.](https://mshaaker.com/transmissions/008-resnet-50-slow-startup) — HPA, startup probes, and 502s on fresh pods
-- [Tibibu: automated pipeline for publishing children's books](https://mshaaker.com/transmissions/007-tibibu-publishing-pipeline) — docx XML parsing, Gemini rewriting, KDP-compliant PDF export
+- [The 404 was a ghost. The image was stale.](https://mshaaker.com/transmissions/010-prometheus-scrapes-clean): Prometheus scraping a stale container image
+- [ResNet-50 takes 60 seconds to load. The cluster didn't know that.](https://mshaaker.com/transmissions/008-resnet-50-slow-startup): HPA, startup probes, and 502s on fresh pods
+- [Tibibu: automated pipeline for publishing children's books](https://mshaaker.com/transmissions/007-tibibu-publishing-pipeline): docx XML parsing, Gemini rewriting, KDP-compliant PDF export
 
 ---
 
