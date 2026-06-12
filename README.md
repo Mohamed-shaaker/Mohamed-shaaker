@@ -36,8 +36,6 @@ I publish transmissions at [mshaaker.com](https://mshaaker.com) about production
 
 Recent transmissions:
 
-Latest transmission → ResNet-50 saw the load. The dashboards learned to watch.
-mshaaker.com/transmissions/011-resnet-50-grafana-load
 - [The 404 was a ghost. The image was stale.](https://mshaaker.com/transmissions/010-prometheus-scrapes-clean): Prometheus scraping a stale container image
 - [ResNet-50 takes 60 seconds to load. The cluster didn't know that.](https://mshaaker.com/transmissions/008-resnet-50-slow-startup): HPA, startup probes, and 502s on fresh pods
 - [Tibibu: automated pipeline for publishing children's books](https://mshaaker.com/transmissions/007-tibibu-publishing-pipeline): docx XML parsing, Gemini rewriting, KDP-compliant PDF export
