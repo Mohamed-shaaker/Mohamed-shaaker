@@ -46,4 +46,5 @@ Recent transmissions:
 
 Remote full-stack or backend engineering. Freelance projects welcome.
 
-[mshaaker.com](https://mshaaker.com) · [LinkedIn](https://linkedin.com/in/mohamed-shaaker)
+[mshaaker.com](https://mshaaker.com)
+
