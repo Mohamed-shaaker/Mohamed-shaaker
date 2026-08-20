@@ -36,9 +36,9 @@ I publish transmissions at [mshaaker.com](https://mshaaker.com) about production
 
 Recent transmissions:
 
-- [The 404 was a ghost. The image was stale.](https://mshaaker.com/transmissions/010-prometheus-scrapes-clean): Prometheus scraping a stale container image
-- [ResNet-50 takes 60 seconds to load. The cluster didn't know that.](https://mshaaker.com/transmissions/008-resnet-50-slow-startup): HPA, startup probes, and 502s on fresh pods
-- [Tibibu: automated pipeline for publishing children's books](https://mshaaker.com/transmissions/007-tibibu-publishing-pipeline): docx XML parsing, Gemini rewriting, KDP-compliant PDF export
+- [Four problems in one session. The probe would have killed every deploy.](https://mshaaker.com/transmissions/022-four-problems-in-one-session-the-probe-would-have-killed-every-deploy): HPA math drift, 41-test automated suite, CI gate, and a startup probe for ResNet-50
+- [The image is off the local machine. GitHub builds it now.](https://mshaaker.com/transmissions/021-the-image-is-off-the-local-machine-github-builds-it-now): GitHub Actions builds and pushes to GHCR on every push to main
+- [Drizzle schema in production, three stores seeded, and four dashboards talking to each other.](https://mshaaker.com/transmissions/020-drizzle-schema-live-db-and-four-dashboards-talking-to-each-other): 19-table schema live, four apps reading from the same database
 
 ---
 
