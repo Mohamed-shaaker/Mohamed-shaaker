@@ -1,6 +1,6 @@
 # Mohamed Shaaker
 
-I'm a technical founder who writes software and builds with AI.
+I'm a technical co-founder who writes software and builds with AI.
 
 I build full-stack systems and production infrastructure: whatever the problem needs.
 Right now that means ML inference pipelines, fintech backends, and automation tools for real businesses.
@@ -11,7 +11,7 @@ Right now that means ML inference pipelines, fintech backends, and automation to
 
 | Venture | What it is | Stack |
 |---|---|---|
-| [Bexze Group](https://mshaaker.com/ventures) | Holding company. One monorepo, three products for East Africa | Turborepo, Supabase |
+| [Bexze Ventures](https://mshaaker.com/ventures) | Holding company. One monorepo, three products for East Africa | Turborepo, Supabase |
 | [Fikalo](https://mshaaker.com/transmissions/001-fikalo) | Logistics in Kampala, real estate in Mogadishu | Next.js, Expo, PostGIS, PesaPal |
 | [Nasez](https://mshaaker.com/transmissions/002-nasez) | Fuel station financial controls | FastAPI, PostgreSQL triggers |
 | [Hubal](https://mshaaker.com/transmissions/003-hubal) | Offline-first POS + phone installment tracking | Vite, React, IndexedDB |
