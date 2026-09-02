@@ -26,4 +26,5 @@ Recent entries:
 ## Contact & Work
 
 - Site: [mshaaker.com](https://mshaaker.com)
+- LinkedIn: [linkedin.com/in/mshaaker](https://linkedin.com/in/mshaaker)
 - Email: hello@mshaaker.com
